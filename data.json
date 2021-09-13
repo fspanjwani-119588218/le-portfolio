@@ -1,153 +1,186 @@
 {
-    "name": "Kaustubh Odak",
-    "landing": {
-        "title": "Hi, I'm Kaustubh",
-        "subtitles": [
-            "Full-stack developer 🌐",
-            "Cross-platform developer 📱💻",
-            "Exploring cloud ☁️",
-            "Beginner in devops ♾️",
-            "Just getting started 📈"
-        ],
-        "professionalDetails": [
-            {
-                "alt": "kaustubh-odak",
-                "icon": "linkedin",
-                "link": "https://www.linkedin.com/in/kaustubh-odak/"
-            },
-            {
-                "alt": "kausko",
-                "icon": "stackoverflow",
-                "link": "https://stackoverflow.com/users/15832433/kausko"
-            },
-            {
-                "alt": "kausko",
-                "icon": "github",
-                "link": "https://github.com/kausko"
-            },
-            {
-                "alt": "Email",
-                "icon": "gmail",
-                "link": "mailto:iam@kaustubhodak.me,kaustubhodak1@gmail.com"
-            }
-        ]
-    },
-    "skills": {
-        "Languages known": [
-            "JavaScript", "Java", "C++", "Python", "HTML5", "CSS3", "TypeScript", "Kotlin", "Dart"
-        ],
-        "Frontend": [
-            "React", "Redux", "Next.js", "Gatsby", "Netlify", "Vercel", "Material-UI", "antdesign", "Bootstrap"
-        ],
-        "Backend, Database and Cloud": [
-            "Node.js", "Express", "FastAPI", "MongoDB", "MySQL", "PostgreSQL", 
-            { 
-                "alt": "Azure", 
-                "icon": "microsoftazure" 
-            }, 
-            "Heroku", "Firebase"
-        ],
-        "Mobile": [
-            {
-                "alt": "React_Native",
-                "icon": "react",
-                "backgroundColor": "#424242"
-            },
-            "Expo", "Android", "Flutter"
-        ]
-    },
-    "projects": {
-        "baseURI": "https://api.github.com/repos/kausko/",
-        "repositories": [
-            "Genrealize",
-            "Portfolio",
-            "cosmicom",
-            "Discord-Google-Drive-Bot",
-            "GitHits",
-            "1DBM"
-        ]
-    },
-    "experience": {
-        "Work Experience": [
-            {
-                "organization": "CloudDFN LLP",
-                "role": "Full Stack Developer",
-                "type": "Internship",
-                "startDate": "2020-07-20",
-                "endDate": "2021-01-20",
-                "city": "Mumbai",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
-                "thumbnail": "/CDFN.jfif"
-            }
-        ],
-        "Volunteer Experience": [
-            {
-                "organization": "PICT IEEE Student Branch (PISB)",
-                "role": "Technical Head",
-                "type": "Member",
-                "startDate": "2019-07-01",
-                "endDate": "",
-                "city": "Pune",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/pisbieee/",
-                "thumbnail": "/PISB.jfif"
-            },
-            {
-                "organization": "Pictoreal",
-                "role": "Technical Head",
-                "type": "Member",
-                "startDate": "2019-07-01",
-                "endDate": "2021-04-01",
-                "city": "Pune",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/pictoreal/",
-                "thumbnail": "/Picto.jfif"
-            }
-        ]
-    },
-    "about": {
-        "description": "I am a full-stack cross-platform app developer, pursuing my B.E in Computer Engineering from Pune Institute of Computer Technology. I strive to make meaningful applications with the best UI practices.",
-        "picture": "/profile.jpg",
-        "social": [
-            {
-                "alt": "kaustubh._.o",
-                "icon": "instagram",
-                "link": "https://www.instagram.com/kaustubh._.o/"
-            },
-            {
-                "alt": "KO_272",
-                "icon": "twitter",
-                "link": "https://twitter.com/KO_272"
-            },
-            {
-                "alt": "kaustubh#4489",
-                "icon": "discord",
-                "link": "https://discord.com/"
-            }
-        ]
-    },
-    "theme": {
-        "light": {
-            "palette": {
-                "type": "light",
-                "background": {
-                    "paper": "#fff",
-                    "default": "#fafafa"
-                }
-            }
-        },
-        "dark": {
-            "palette": {
-                "type": "dark",
-                "background": {
-                    "paper": "#303030",
-                    "default": "#212121"
-                }
-            }
+  "name": "Fardeen Panjwani",
+  "landing": {
+    "title": "Hi, I'm Fardeen",
+    "subtitles": [
+      "Full-stack developer",
+      "Student",
+      "Movie buff",
+      "Tolkienite"
+    ],
+    "professionalDetails": [
+      {
+        "alt": "fardeen-panjwani",
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/fardeen-panjwani-01464914b/"
+      },
+      {
+        "alt": "wise-introvert",
+        "icon": "github",
+        "link": "https://github.com/wise-introvert"
+      },
+      {
+        "alt": "Email",
+        "icon": "gmail",
+        "link": "mailto:fardeen.s.panjwani@gmail.com,fardeen.wi.panjwani@gmail.com"
+      }
+    ]
+  },
+  "skills": {
+    "Languages known": ["JavaScript", "TypeScript", "Java", "Python"],
+    "Frontend": ["React", "Redux", "Next.js", "Netlify"],
+    "Backend, Database and Cloud": [
+      "Node.js",
+      "Express",
+      "NestJS",
+      "MongoDB",
+      "MySQL",
+      "PostgreSQL",
+      "Firebase",
+      "Heroku"
+    ],
+    "Mobile": [
+      {
+        "alt": "React_Native",
+        "icon": "react",
+        "backgroundColor": "#424242"
+      },
+      "Expo",
+      "Android"
+    ]
+  },
+  "projects": {
+    "baseURI": "https://api.github.com/repos/wise-introvert",
+    "repositories": [
+      "edc-api",
+      "edc-app",
+      "react-component-library",
+      "react-redux-typescript-boilerplate",
+      "typescript-boilerplate",
+      "create-react-component-library",
+      "the-notebook-client",
+      "the-notebook-server"
+    ]
+  },
+  "experience": {
+    "Work Experience": [
+      {
+        "organization": "VXL LLC",
+        "role": "Associate Software Engineer",
+        "type": "Full Time - Remote",
+        "startDate": "2018-12-03",
+        "endDate": "2021-04-10",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "url": "https://www.linkedin.com/company/vxl-llc/",
+        "thumbnail": "/CDFN.png"
+      },
+      {
+        "organization": "SME Metrix",
+        "role": "Application Developer",
+        "type": "Internship",
+        "startDate": "2018-08-01",
+        "endDate": "2018-11-30",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "url": "https://www.linkedin.com/company/sme-metrix/",
+        "thumbnail": "/CDFN.png"
+      }
+    ],
+    "Volunteer Experience": [
+      {
+        "organization": "Aga Khan Development Network",
+        "role": "Member, AKYSB",
+        "type": "Member",
+        "startDate": "2014-03",
+        "endDate": "2017-03",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "thumbnail": "/akf-logo.gif",
+        "url": "https://www.akdn.org/"
+      },
+      {
+        "organization": "Aga Khan Development Network",
+        "role": "Co-Convenor, AKYSB",
+        "type": "Co-Convenor",
+        "startDate": "2017-03",
+        "endDate": "2018-03",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "thumbnail": "/akf-logo.gif",
+        "url": "https://www.akdn.org/"
+      },
+      {
+        "organization": "Bharat Scouts and Guides",
+        "role": "Scout Master",
+        "type": "Scout Master",
+        "startDate": "2017-03",
+        "endDate": "2018-03",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "url": "https://www.linkedin.com/company/pictoreal/",
+        "thumbnail": "/Picto.png",
+        "url": "http://www.bsgindia.org/"
+      },
+      {
+        "organization": "Bharat Scouts and Guides",
+        "role": "Rover Leader",
+        "type": "Rover Leader",
+        "startDate": "2018-03",
+        "endDate": "2019-03",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India",
+        "url": "https://www.linkedin.com/company/pictoreal/",
+        "thumbnail": "/Picto.png",
+        "url": "http://www.bsgindia.org/"
+      }
+    ]
+  },
+  "about": {
+    "description": "I am a full-stack cross-platform app developer, studying Computer Programming at Seneca College.",
+    "picture": "/astro.png",
+    "social": [
+      {
+        "alt": "wise__introvert",
+        "icon": "twitter",
+        "link": "https://twitter.com/wise__introvert"
+      },
+      {
+        "alt": "wise_introvert",
+        "icon": "reddit",
+        "link": "https://www.reddit.com/u/wise_introvert"
+      },
+      {
+        "alt": "wiseintrovert#9216",
+        "icon": "discord",
+        "link": "https://discord.com/"
+      }
+    ]
+  },
+  "theme": {
+    "light": {
+      "palette": {
+        "type": "light",
+        "background": {
+          "paper": "#fff",
+          "default": "#fafafa"
         }
+      }
+    },
+    "dark": {
+      "palette": {
+        "type": "dark",
+        "background": {
+          "paper": "#303030",
+          "default": "#212121"
+        }
+      }
     }
+  }
 }
